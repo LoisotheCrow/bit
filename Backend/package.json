@@ -2,7 +2,7 @@
   "name": "bitservice-mv",
   "version": "0.0.1",
   "description": "Backend for bitcoin trading service.",
-  "main": "index.js",
+  "main": "srv/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
