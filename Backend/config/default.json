@@ -1,0 +1,17 @@
+{
+  "LBAPI": [{
+    "url": "https://localbitcoins.com",
+    "hmacSecret": "7c9afadc154a2682b7ccb7adc23a0640d027e3967d7e79d971045e1fb297cdd6",
+    "key": "99e595efe140d864c04d62a4bb7c80e6",
+    "proxy": []
+  }],
+  "Server": {
+    "port": 8000
+  },
+  "Auth": {
+    "jwtSecret": "6/j<X%L-<[^X~'cp02V8`,.otQz?[c#T>rKBqSY*f)?>w1MdW3ni`K-#<voj,f#",
+    "jwtExpire": "6000",
+    "salt": "BDHsV_pvjR@)DhotHrw=~]5v52yJWu",
+    "hash": "9f78f0c349faa9d6863dda4e49ea19d4d2ea3bb25d0865296f5b60402b16d9d534d0bafca518feac6fd8805ce67ee84de8dcf41c874213138bb589508b97a1f5"
+  }
+}
