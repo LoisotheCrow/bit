@@ -1,8 +1,8 @@
 {
   "LBAPI": [{
     "url": "https://localbitcoins.com",
-    "hmacSecret": "7c9afadc154a2682b7ccb7adc23a0640d027e3967d7e79d971045e1fb297cdd6",
-    "key": "99e595efe140d864c04d62a4bb7c80e6",
+    "hmacSecret": "14f29fd121d90ffbafeecd5776cc679b683bff4be39d1c034ed18ba77948e848",
+    "key": "00c06b824313f06bfc408268ad4fa485",
     "proxy": []
   }],
   "Server": {
