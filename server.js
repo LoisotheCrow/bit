@@ -39,7 +39,7 @@ const initialize = () => {
     const _addStatic = app => {
       logger.log('info', 'Connecting static directory...');
       try {
-        app.use(express.static(path.join(__dirname, '../Frontend/dist')));
+        app.use(express.static(path.join(__dirname, './Frontend/dist')));
         logger.log('info', 'Connected static directory.');
       } catch ({ message }) {
         logger.log('error', `Error while trying to set up static directory: ${message}.`);
