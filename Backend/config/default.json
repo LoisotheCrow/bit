@@ -6,7 +6,7 @@
     "proxy": []
   }],
   "Server": {
-    "port": 8000
+    "port": 8080
   },
   "Auth": {
     "jwtSecret": "6/j<X%L-<[^X~'cp02V8`,.otQz?[c#T>rKBqSY*f)?>w1MdW3ni`K-#<voj,f#",
