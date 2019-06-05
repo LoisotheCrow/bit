@@ -2,7 +2,7 @@ import axios from 'axios';
 
 class API {
   constructor() {
-    this.baseUrl = 'http://http://35.246.245.185:8000';
+    this.baseUrl = 'http://35.246.245.185:8000';
     this.timeout = 1000;
     this.token = null;
 

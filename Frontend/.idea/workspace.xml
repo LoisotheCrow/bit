@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0bb06f-909b-495c-aaf8-8fad7ce2f3d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/../config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -127,7 +127,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/services/API.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="1037">
               <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
             </state>
           </provider>
@@ -162,10 +162,10 @@
         <option value="$PROJECT_DIR$/src/Components/SuccessSnackbar.js" />
         <option value="$PROJECT_DIR$/src/Components/AdList.js" />
         <option value="$PROJECT_DIR$/src/Components/BotList.js" />
-        <option value="$PROJECT_DIR$/src/services/API.js" />
         <option value="$PROJECT_DIR$/src/Components/BotInfo.js" />
         <option value="$PROJECT_DIR$/src/Components/ChangeWindow.js" />
         <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/services/API.js" />
       </list>
     </option>
   </component>
@@ -477,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/services/API.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="1037">
           <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
         </state>
       </provider>
