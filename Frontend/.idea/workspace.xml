@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0bb06f-909b-495c-aaf8-8fad7ce2f3d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srv/combined.log" beforeDir="false" afterPath="$PROJECT_DIR$/../srv/combined.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srv/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../srv/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../srv/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
