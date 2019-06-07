@@ -1,0 +1,6 @@
+{
+  "GCLOUD_PROJECT": "bitservice-243015",
+  "OAUTH2_CLIENT_ID": "464940263529-qb5j4rrj9raqts0kjpgdmuqr1c3ub447.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "228QZFjByRIZov-Ev5oC9nk4",
+  "OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback"
+}
