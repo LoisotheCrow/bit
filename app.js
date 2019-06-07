@@ -92,7 +92,7 @@ const initialize = () => {
     const _connectServer = app => {
       const { port } = _retrieveConfig();
       try {
-        const server = http.createServer(app).listen(port);
+        const server = http.createServer(app).listen(process.env.port || port);
         server.on('error', ({ message }) => {
           logger.log('error', `Error in service runtime: ${message}.`);
         });
