@@ -34,7 +34,7 @@ command=npm start
 autostart=true
 autorestart=true
 user=nodeapp
-environment=HOME="/home/nodeapp",USER="nodeapp",NODE_ENV="production"
+environment=HOME="/home/nodeapp",USER="nodeapp",NODE_ENV="dev"
 stdout_logfile=syslog
 stderr_logfile=syslog
 EOF
