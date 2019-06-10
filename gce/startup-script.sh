@@ -16,7 +16,7 @@ ln -s /nodejs/bin/npm /usr/bin/npm
 # git requires $HOME and it's not set during the startup script.
 export HOME=/root
 git config --global credential.helper gcloud.sh
-sudo git clone https://source.cloud.google.com/p/citric-proxy-242318/r/github_loisothecrow_bit /app
+sudo git clone https://source.cloud.google.com/citric-proxy-242318/github_loisothecrow_bit /app
 
 # Install app dependencies
 cd /app
