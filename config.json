@@ -1,0 +1,6 @@
+{
+  "GCLOUD_PROJECT": "citric-proxy-242318",
+  "OAUTH2_CLIENT_ID": "1038049382840-j382rl8fnj8t7behi24srkl0sfkgsr8o.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "IQZtJ35v4Jj09CrJ4wkxe_kD",
+  "OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback"
+}

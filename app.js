@@ -2,6 +2,8 @@
  */
 const initialize = () => {
   const logger = require('./src/utils/logger');
+  require('@google-cloud/debug-agent').start();
+
   try {
     logger.log('info', 'Starting service...');
 
@@ -108,13 +110,14 @@ const initialize = () => {
     _addMethods(app);
     _connectServer(app);
     logger.log('info', 'Started service.');
+    return app;
   } catch ({ message }) {
     logger.log('error', `Could not start service: ${message}.`);
     process.exit(1);
   }
 };
 
-initialize();
+const app = initialize();
 
 /*{
     "url": "https://localbitcoins.com",
