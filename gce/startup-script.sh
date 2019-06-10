@@ -30,7 +30,7 @@ chown -R nodeapp:nodeapp /app
 cat >/etc/supervisor/conf.d/node-app.conf << EOF
 [program:nodeapp]
 directory=/app
-command=npm install && npm start
+command=npm start
 autostart=true
 autorestart=true
 user=nodeapp
