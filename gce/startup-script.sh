@@ -15,9 +15,7 @@ ln -s /nodejs/bin/npm /usr/bin/npm
 # Get the application source code from the Google Cloud Repository.
 # git requires $HOME and it's not set during the startup script.
 export HOME=/root
-git config --global user.name "LoisoTheCrow"
-git config --global user.email "loisocrow@gmail.com"
-git config --global user.password "vbifbkkbfibv2"
+git config --global credential.helper gcloud.sh
 sudo git clone https://source.developers.google.com/p/bitservice-243015/r/github_loisothecrow_bit /app
 
 # Install app dependencies
